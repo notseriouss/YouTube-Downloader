@@ -1,0 +1,5 @@
+faulthandler
+PyQt5
+win10toast
+yt_dlp
+json

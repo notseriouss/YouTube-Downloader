@@ -1,7 +1,7 @@
 <h2 align="center">YouTube-Downloader</h2>
 
 # ОПИСАНИЕ
-[English](README.ru.md)
+[English](README.md)
 
 YouTube-Downloader - это приложение с графическим интерфейсом, написанное на Python, которое позволяет легко загружать видео высокого разрешения с YouTube. Создано на [PyQt5](https://pypi.org/project/PyQt5) и [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
